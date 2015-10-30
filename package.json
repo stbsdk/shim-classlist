@@ -1,7 +1,7 @@
 {
 	"name": "stb-shim-classlist",
 	"version": "1.3.0",
-	"description": "Pure JavaScript implementations of classList in DOM Element.",
+	"description": "Pure JavaScript implementation of classList in DOM Element.",
 	"author": {
 		"name": "Stanislav Kalashnik",
 		"email": "sk@infomir.eu"
