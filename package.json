@@ -7,12 +7,13 @@
         "email": "sk@infomir.eu"
     },
     "repository": "stbsdk/shim-classlist",
+    "scripts": {
+        "lint": "eslint *.js",
+        "jsdoc": "jsdoc --destination doc *.js readme.md"
+    },
     "keywords": [
         "stb",
-        "sdk",
-        "device",
-        "tv",
-        "devkit",
+        "stbsdk",
         "framework",
         "shim",
         "classlist"
