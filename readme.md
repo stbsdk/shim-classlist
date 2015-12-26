@@ -9,14 +9,14 @@ Shim for classList in DOM Element
 Pure JavaScript implementation of classList in DOM Element.
 
 
-## Installation
+## Installation ##
 
 ```bash
 npm install stb-shim-classlist
 ```
 
 
-## Usage
+## Usage ##
 
 Apply shim for classList:
 
@@ -25,12 +25,12 @@ require('stb-shim-classlist');
 ```
 
 
-## Contribution
+## Contribution ##
 
 If you have any problem or suggestion please open an issue [here](https://github.com/stbsdk/shim-classlist/issues).
 Pull requests are welcomed with respect to the [JavaScript Code Style](https://github.com/DarkPark/jscs).
 
 
-## License
+## License ##
 
 `stb-shim-classlist` is released under the [GPL-3.0 License](http://opensource.org/licenses/GPL-3.0).
