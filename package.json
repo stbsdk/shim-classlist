@@ -4,7 +4,7 @@
     "description": "Pure JavaScript implementation of classList in DOM Element.",
     "author": {
         "name": "Stanislav Kalashnik",
-        "email": "sk@infomir.eu"
+        "email": "darkpark.main@gmail.com"
     },
     "repository": "stbsdk/shim-classlist",
     "scripts": {
