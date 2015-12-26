@@ -3,7 +3,7 @@ Shim for classList in DOM Element
 
 [![NPM version](https://img.shields.io/npm/v/stb-shim-classlist.svg?style=flat-square)](https://www.npmjs.com/package/stb-shim-classlist)
 [![Dependencies Status](https://img.shields.io/david/stbsdk/shim-classlist.svg?style=flat-square)](https://david-dm.org/stbsdk/shim-classlist)
-[![Gitter](https://img.shields.io/badge/gitter-join%20chat-blue.svg?style=flat-square)](https://gitter.im/DarkPark/stb)
+[![Gitter](https://img.shields.io/badge/gitter-join%20chat-blue.svg?style=flat-square)](https://gitter.im/DarkPark/stbsdk)
 
 
 Pure JavaScript implementation of classList in DOM Element.
