@@ -6,7 +6,7 @@ Shim for classList in DOM Element
 [![Gitter](https://img.shields.io/badge/gitter-join%20chat-blue.svg?style=flat-square)](https://gitter.im/DarkPark/stb)
 
 
-`stb-shim-classlist` is a pure JavaScript implementation of classList in DOM Element.
+Pure JavaScript implementation of classList in DOM Element.
 
 
 ## Installation
