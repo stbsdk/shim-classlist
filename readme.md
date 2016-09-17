@@ -1,6 +1,7 @@
 Shim for classList in DOM Element
 =================================
 
+[![Build Status](https://img.shields.io/travis/stbsdk/shim-classlist.svg?style=flat-square)](https://travis-ci.org/stbsdk/shim-classlist)
 [![NPM version](https://img.shields.io/npm/v/stb-shim-classlist.svg?style=flat-square)](https://www.npmjs.com/package/stb-shim-classlist)
 [![Dependencies Status](https://img.shields.io/david/stbsdk/shim-classlist.svg?style=flat-square)](https://david-dm.org/stbsdk/shim-classlist)
 [![Gitter](https://img.shields.io/badge/gitter-join%20chat-blue.svg?style=flat-square)](https://gitter.im/DarkPark/stbsdk)
