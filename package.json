@@ -16,9 +16,8 @@
         "jsdoc": "jsdoc --destination docs *.js readme.md"
     },
     "devDependencies": {
-        "eslint": "4.*.*",
-        "jsdoc": "3.*.*",
-        "stb-eslint-config": "1.*.*"
+        "jsdoc": "^3.5.5",
+        "stb-eslint": "^1.0.0"
     },
     "keywords": [
         "stb",
